@@ -16,22 +16,6 @@ public class Carro {
         marcha = Marcha.PONTO_MORTO;
     }
 
-    public boolean isLigado() {
-        return isLigado;
-    }
-
-    public void setLigado(boolean isLigado) {
-        this.isLigado = Carro.this.isLigado;
-    }
-
-    public int getVelocidade() {
-        return velocidade;
-    }
-
-    public void setVelocidade(int velocidade) {
-        this.velocidade = velocidade;
-    }
-
 
     public void ligarCarro() {
         if (this.isLigado) {
