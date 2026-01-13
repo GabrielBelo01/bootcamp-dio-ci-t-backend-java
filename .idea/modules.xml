@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/Carro/Carro.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/Carro/Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/Petshop/Petshop.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/Petshop/Petshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/Relogio/Relogio.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/Relogio/Relogio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/SistemasUsuarios/SistemasUsuarios.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/SistemasUsuarios/SistemasUsuarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-dio-ci-t-backend-java.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-dio-ci-t-backend-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/calculaFormasGeometricas/calculaFormasGeometricas.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/calculaFormasGeometricas/calculaFormasGeometricas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/desafio-poo-dio/desafio-poo-dio.iml" filepath="$PROJECT_DIR$/modulo-02-poo/desafio-poo-dio/desafio-poo-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/formatadorNumerico/formatadorNumerico.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/formatadorNumerico/formatadorNumerico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/ingressosCinema/ingressosCinema.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/ingressosCinema/ingressosCinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-03-collections/modulo-03-collections.iml" filepath="$PROJECT_DIR$/modulo-03-collections/modulo-03-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/servicoMensagem/servicoMensagem.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/servicoMensagem/servicoMensagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-03-collections/stream-api/stream-api.iml" filepath="$PROJECT_DIR$/modulo-03-collections/stream-api/stream-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-02-poo/exercicios/tributosProdutos/tributosProdutos.iml" filepath="$PROJECT_DIR$/modulo-02-poo/exercicios/tributosProdutos/tributosProdutos.iml" />
+    </modules>
+  </component>
+</project>
